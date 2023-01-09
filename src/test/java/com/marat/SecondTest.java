@@ -7,6 +7,7 @@ public class SecondTest {
 
     @Test
     void secondTest() {
+        System.out.println("fixes");
         Assertions.assertTrue(true);
     }
 }

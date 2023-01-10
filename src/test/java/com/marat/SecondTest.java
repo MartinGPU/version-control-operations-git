@@ -7,7 +7,7 @@ public class SecondTest {
 
     @Test
     void secondTest() {
-        System.out.println("fixes");
+        System.out.println("another developer fixes");
         Assertions.assertTrue(true);
     }
 }
